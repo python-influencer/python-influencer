@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @python-influencer. In fatc, I am a Cybersecurity and IT Risk Analyst with over 9 years of experience in identifying, assessing, and mitigating risks across various industries such as oil and gas, petrochemical, pharmaceuticals, and steel.
+- 👋 Hi, I’m @python-influencer. In fatc, I am a Cybersecurity and IT Risk Analyst with over 12 years of experience in identifying, assessing, and mitigating risks across various industries such as oil and gas, petrochemical, pharmaceuticals, and steel.
   
 - 👀 I’m deeply passionate about developing and refining Cybersecurity Risk Assessment Methodologies to help organizations achieve precise and actionable insights into their risk posture.
       My work focuses on designing comprehensive frameworks for identifying vulnerabilities, assessing risk levels, and prioritizing mitigation strategies.
